@@ -15,7 +15,7 @@ public class Atividade01 {
         else
             System.out.println("Essa pessoa é de menor");
 
-mjdv
+
     }
 
 }
